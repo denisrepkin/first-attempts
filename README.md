@@ -1,6 +1,7 @@
 # My data science project
-From the [Skillfactory Data Siience course](https://skillfactory.ru/data-science) 
+
+From the [Skillfactory Data Science course](https://skillfactory.ru/data-science) 
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число]()
+* [Проект 0. Игра: Угадай число](https://github.com/denisrepkin/first-attempts/tree/main/project_0)
